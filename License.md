@@ -1,3 +1,3 @@
-# brand-assets
+# License
 
 Copyright Three Key Therapy
